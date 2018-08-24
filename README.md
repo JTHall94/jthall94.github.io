@@ -5,7 +5,7 @@
 </head>
 
 <body>
-<h2> Jacob's test page for Bootcamp pre-work </h2>
+<p>Jacob's test page for Bootcamp pre-work</p>
 <ul>
   <li><a href="https://github.com/JTHall94">Github</a> </li>
   <li><a href="https://stackoverflow.com/users/10266334/jacob-hall">
