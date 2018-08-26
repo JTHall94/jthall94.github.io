@@ -4,11 +4,9 @@ head {
 
 
 top {
-  display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 90px;
-  height: 90px;
+  width: 50%;
 
 }
 
