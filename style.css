@@ -1,4 +1,4 @@
-.top {
+top {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -7,10 +7,16 @@
 
 head {
   background-color: lightblue;
-  font-family: Arial;
 }
 
 body {
   background-color: lightblue;
+}
+
+h2 {
+  font-family: arial;
+}
+
+h3 {
   font-family: arial;
 }
