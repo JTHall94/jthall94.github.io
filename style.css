@@ -1,13 +1,18 @@
+head {
+  background-color: lightblue;
+}
+
+
 top {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 90px;
+  height: 90px;
+
 }
 
-head {
-  background-color: lightblue;
-}
+
 
 body {
   background-color: lightblue;
