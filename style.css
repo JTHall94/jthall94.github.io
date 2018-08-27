@@ -1,17 +1,15 @@
-
-.picture{
-  margin: auto;
-  display: block;
-}
-
 body {
   background-color: lightblue;
+  font-family: 'Courier', sans-serif;
 }
 
-h2 {
-  font-family: arial;
+h2, h3 {
+  font-family: 'arial', sans-serif;
 }
 
-h3 {
-  font-family: arial;
+img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  display: block;
 }
