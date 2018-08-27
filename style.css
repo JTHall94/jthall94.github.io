@@ -1,12 +1,13 @@
 
 
-.Bio {
-  display: block;
-  margin-left: auto;
+.BioPic{
+  display: flex;
   margin-right: auto;
-  width: 90px;
-  height: 90px;
+  margin-left: auto;
+  width: 50%;
+  height: 50%;
 }
+
 
 
 
