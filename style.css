@@ -1,7 +1,18 @@
 
 @import url('https://fonts.googleapis.com/css?family=Lato|Raleway');
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
 body {
   background-color: #1B263B;
+  background: linear-gradient(to top,#0D1B2A, #415A77);
   font-family: 'Raleway', sans-serif;
   color: #F7FFF7;
 }
