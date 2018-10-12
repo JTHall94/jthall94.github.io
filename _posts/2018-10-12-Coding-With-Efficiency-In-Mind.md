@@ -3,11 +3,14 @@ layout: page
 title: Coding with Efficiency in Mind
 ---
 
+
+
+
 # Coding with Efficiency in Mind
 
 At the end of the fourth week of the web developer bootcamp, it feels like the program has lasted for much longer. Mainly, I think this is due to the amount of learning we are doing and the number of topics we have covered. Additionally, the amount of time spent outside of the classroom doing further research, reading, practicing, even dreaming about code has emphasized this effect. For four weeks now, my mind has been thoroughly inundated by web development.
 
-At first it was intimidating, even a little overwhelming. Since adjusting, the whole process has seemingly transformed, becoming entertaining, fulfilling, and exciting. In reality, the process hasn't changed at all; through the process, my way of thinking has changed.
+At first it was intimidating, even a little overwhelming. Since adjusting, the whole process has seemingly transformed, becoming entertaining, fulfilling, and exciting. In reality, the process hasn't changed at all; my way of thinking has changed.
 
 That personal change is an interesting thing to track. If I look at the work that I produce from week to week, I'm able to see not only my base of knowledge growing, but also the formation of patterns and habits. For example, in Week 2, as we jumped into javascript for the first time, I was excited to build things that worked at all, even if there were bugs and hiccups included. The code for those projects was initially quite a mess: there were needlessly repeated lines, syntax errors, and entire abandoned sections tossed by the wayside in a fitful creation process.
 
