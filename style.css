@@ -24,7 +24,11 @@ body {
   /*border-bottom: 1px solid #F7FFF7;*/
 }
 
-h1, h2, h3, h5 {
+h1 {
+  color: #F7FFF7;
+}
+
+h2, h3, h5 {
   font-family: 'Lato', sans-serif;
   color: #BB0A21;
 }
