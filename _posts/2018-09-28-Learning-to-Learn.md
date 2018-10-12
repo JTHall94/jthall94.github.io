@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Learning to Learn
 ---
 
 # Learning New Ways to Learn About New Things

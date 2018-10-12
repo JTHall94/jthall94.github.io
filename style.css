@@ -1,13 +1,13 @@
 
 @import url('https://fonts.googleapis.com/css?family=Lato|Raleway');
 html {
-    height: 100%;
+  min-height: 100%;
 }
 body {
     height: 100%;
     margin: 0;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+     background-attachment: fixed;
   }
 
 body {
@@ -17,22 +17,64 @@ body {
   color: #F7FFF7;
 }
 
-h1, h2, h3 {
+.navs {
+  background-color: #BB0A21;
+  line-height: 45px;
+  margin: 0;
+  /*border-bottom: 1px solid #F7FFF7;*/
+}
+
+h1, h2, h3, h5 {
   font-family: 'Lato', sans-serif;
   color: #BB0A21;
 }
 
 img {
+  margin-top: 3.5em;
   margin-left: auto;
   margin-right: auto;
-  width: 12em;
+  margin-bottom: 3.5em;
+  width: 20em;
   display: block;
+  border: 2px solid #F7FFF7;
 }
 
 a {
   color: #F7FFF7;
+  text-decoration: none;
 }
 
 a:hover {
   color: #BB0A21;
+  text-decoration: none;
+}
+
+.navlink:hover {
+  color: #415A77;
+}
+
+.navs {
+  text-align: center;
+}
+
+ul {
+  list-style: circle;
+}
+
+.projectshead {
+  text-align: center;
+  color: #F7FFF7;
+  margin-top: 20px;
+}
+
+.bloglist {
+  list-style: none;
+}
+
+.blogpost {
+  color: #BB0A21;
+}
+
+.blogpost:hover {
+  color: #F7FFF7;
 }
