@@ -26,6 +26,8 @@ body {
 
 h1 {
   color: #F7FFF7;
+  margin-top: .5em;
+  margin-bottom: .5em;
 }
 
 h2, h3, h5 {
