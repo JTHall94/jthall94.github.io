@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: blog
 title: Learning to Learn
 ---
-
 # Learning New Ways to Learn About New Things
 
 At the end of my second week in a web developer bootcamp, it feels simultaneously like I’ve learned a vast amount and I haven’t learned nearly enough. In the span of ten days of class, our cohort has worked through a wide range of topics, from the conceptual (metacognition, what a programming language is, how browsers interact with code, etc) to the practical (conventional ways to write code, basics of design, how to make the programming process increasingly more efficient, etc). We’ve learned quite a bit about things like git, HTML, CSS, Bootstrap, Sass, NPM, and Javascript.

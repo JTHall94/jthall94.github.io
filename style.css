@@ -1,13 +1,11 @@
 
 @import url('https://fonts.googleapis.com/css?family=Lato|Raleway');
-html {
-  height: 100%;
-  width: 100%;
-  background-image: url(/images/blogbg.JPG);
-}
-body {
+
+
+
+html, body {
     min-height: 100%;
-    min-width: 70%;
+    min-width: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-color: #1B263B;
@@ -22,6 +20,7 @@ body {
   background-color: #BB0A21;
   line-height: 45px;
   margin: 0;
+
   /*border-bottom: 1px solid #F7FFF7;*/
 }
 
@@ -37,11 +36,11 @@ h2, h3, h5 {
 }
 
 img {
-  margin-top: 3.5em;
+  margin-top: 3em;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 3.5em;
-  width: 20em;
+  width: 15em;
   display: block;
   border: 2px solid #F7FFF7;
 }
@@ -65,7 +64,7 @@ a:hover {
 }
 
 ul {
-  list-style: circle;
+  list-style: none;
 }
 
 .projectshead {
@@ -85,3 +84,179 @@ ul {
 .blogpost:hover {
   color: #F7FFF7;
 }
+
+.infoback {
+  background-color: #778899;
+  border: 1px white solid;
+}
+
+
+header {
+  min-height: 100vh;
+  /*background-color: #415A77;*/
+  position: relative;
+  background-image: url(/images/DSC_0187.JPG);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  font-size: 100%;
+}
+
+#aboutme {
+  min-height: 100vh;
+  background-color: #BB0A21;
+  position: relative;
+}
+
+#skills {
+  min-height: 100vh;
+  background-color: white;
+  position: relative;
+}
+
+#projectlist {
+  min-height: 100vh;
+  /*background-color: #0D1B2A;*/
+  position: relative;
+}
+
+.maincontent {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+i {
+  color: #BB0A21;
+}
+
+.skilllabel {
+  color: #BB0A21;
+}
+
+#skillsgrid {
+  height: 100%;
+  width: 100%;
+  font-size: 150%;
+  text-align: center;
+}
+
+.skillsrow {
+  height: 20%;
+}
+
+/*.skillscol {
+  height: 25%;
+  width: 33%;
+} */
+
+/*.card-img-top {
+  border-bottom: solid 2px #BB0A21;
+}*/
+
+.card {
+  border: solid 2px #BB0A21;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card-text {
+  color: #0D1B2A;
+}
+
+#projectgrid {
+margin-left: auto;
+margin-right: auto;
+justify-content: center;
+}
+
+.skillblock {
+  margin-left: auto;
+  margin-right: auto;
+  width: 18rem;
+}
+
+#skillsgrid {
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+}
+
+
+.special {
+  color: white;
+}
+
+h5 > a {
+  color: #BB0A21;
+}
+
+h5 > a:hover {
+  color: #0D1B2A;
+}
+
+#contact {
+  min-height: 100vh;
+  background-color: #BB0A21;
+  position: relative;
+}
+
+#contactitle {
+  color: white;
+}
+
+
+#resumepage > img {
+  height: 100vh;
+  width: auto;
+
+}
+
+#blogpage {
+  height: 100vh;
+}
+
+#blogcontent {
+  height: 100vh; 
+}
+
+
+
+/*#introblock {
+  min-height: 600px;
+  min-width: 100%;
+}
+
+#intro {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+
+#bio {
+  min-width: 100%;
+  background-color: #BB0A21;
+}
+
+#mainname {
+  border-bottom: 1px solid #BB0A21;
+  font-size: 150%;
+  text-align: center;
+}
+
+#introname {
+  font-size: 250%;
+  width: 100%;
+  text-align: center;
+}
+
+#tagline {
+  width: 100%;
+  text-align: center;
+}
+
+#Proflinks {
+  text-align: center;
+  width: 100%;
+} */

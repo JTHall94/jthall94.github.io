@@ -1,13 +1,14 @@
 ---
 layout: page
 ---
+<div id="blogpage">
+  <h1 class="projectshead text-center">My Blog Posts</h1>
 
-<h1 class="projectshead">My Blog Posts</h1>
-
-<ul class="bloglist">
-    {% for post in site.posts %}
-      <li>
-          <h2 class="blogpost"><a href="{{ post.url }}"> {{ post.title }}</a></h2>
-      </li>
-    {% endfor %}
-</ul>
+  <ul class="bloglist text-center mr-5">
+      {% for post in site.posts %}
+        <li>
+            <h2 class="blogpost"><a href="{{ post.url }}"> {{ post.title }}</a></h2>
+        </li>
+      {% endfor %}
+  </ul>
+</div>

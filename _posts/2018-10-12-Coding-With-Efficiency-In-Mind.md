@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 title: Coding with Efficiency in Mind
 ---
 
